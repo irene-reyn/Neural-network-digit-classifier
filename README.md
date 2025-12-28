@@ -11,7 +11,7 @@ The model is trained using a feedforward neural network implemented in PyTorch. 
 - Google Colab
 
 ## Results
-The model achieves approximately 90% accuracy on the MNIST test dataset.
+The model achieves approximately 96.72% accuracy on the MNIST test dataset.
 
 ## How to Run
 Open the notebook in Google Colab or Jupyter Notebook and run the cells sequentially.
